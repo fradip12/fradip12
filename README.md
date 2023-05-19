@@ -53,7 +53,7 @@ I am Fradipta Alqaiyum , people call me Fradipta / Dipta, a recent computer engi
 </p>
 
 ## Streak Stats
-![Github Stats](https://git-stats-forking.vercel.app/api?username=fradip12&count_private=true&show_icons=true&include_all_commits=true&count_private=true)
+![Github Stats](https://git-stats-forking.vercel.app/api?username=fradip12&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=monokai)
 
 ## Most Languages
-![Top Langs](https://git-stats-forking.vercel.app/api/top-langs/?username=fradip12&hide=TeX&layout=compact)
+![Top Langs](https://git-stats-forking.vercel.app/api/top-langs/?username=fradip12&hide=TeX&layout=compact&count_private=true&theme=monokai)
